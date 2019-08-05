@@ -9,3 +9,8 @@ audio::-webkit-media-controls-enclosure {
 audio::-webkit-media-controls-panel {
     width: calc(100% + 30px); /* Adjust as needed */
 }
+
+body{
+	background: blue;
+	color: white;
+}
