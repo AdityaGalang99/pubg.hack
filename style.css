@@ -11,6 +11,6 @@ audio::-webkit-media-controls-panel {
 }
 
 body{
-	background: blue;
-	color: white;
+	background: url('test.png');
+	color: #fff;
 }
